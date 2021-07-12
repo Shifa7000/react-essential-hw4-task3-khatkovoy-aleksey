@@ -1,0 +1,7 @@
+.TextFrame {
+  width: 300px;
+  border: 1px solid gray;
+  margin: 20px;
+  padding: 10px;
+  background-color: lightgray;
+}
